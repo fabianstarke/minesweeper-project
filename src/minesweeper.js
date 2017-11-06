@@ -104,8 +104,7 @@ class Board {
   }
 }
 
-const g = new Game(9,9,6)
-g.playMove(0,1);
+
 
 
 /*const generatePlayerBoard = (numberOfRows, numberOfColumns) => {
